@@ -18,19 +18,25 @@ and available hours — and get a structured week-by-week AI-powered study plan.
 
 ## 📸 Screenshots
 
-Screenshots/Registration.png
+## 📸 Screenshots
 
-Screenshots/RegistrationPage.png
+### 🔐 Login
+![Login](Screenshots/Registration.png)
 
-Screenshots/HomePage.png
+### 📝 Signup
+![Signup](Screenshots/RegistrationPage.png)
 
-Screenshots/RoadmapPage.png
+### 🏠 Dashboard — Generate Your Roadmap
+![Dashboard](Screenshots/HomePage.png)
 
-Screenshots/ProgressPage.png
+### 🗺️ AI Generated Roadmap
+![Roadmap](Screenshots/RoadmapPage.png)
 
-Screenshots/ContinuePage.png
+### 📊 Progress Tracker
+![Progress](Screenshots/ProgressPage.png)
 
-
+### ▶️ Continue Page
+![Continue](Screenshots/ContinuePage.png)
 
 ---
 
