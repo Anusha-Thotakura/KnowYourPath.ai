@@ -11,30 +11,31 @@ and available hours — and get a structured week-by-week AI-powered study plan.
 
 > Generate a roadmap in seconds 👇
 
-![Dashboard](screenshots/3_dashboard.png)
-![Roadmap](screenshots/4_roadmap.png)
+![Dashboard](screenshots/HonePage.png)
+![Roadmap](screenshots/RoadmapPage.png)
 
 ---
 
 ## 📸 Screenshots
 
-### 🔐 Login
-![Login](screenshots/1_login.png)
+### 🔐 Registracton
+Screenshots/Registration.png
 
-### 📝 Signup
-![Signup](screenshots/2_signup.png)
 
 ### 🏠 Dashboard — Generate Your Roadmap
-![Dashboard](screenshots/3_dashboard.png)
+HomePage.png
 
 ### 🗺️ AI Generated Roadmap
-![Roadmap](screenshots/4_roadmap.png)
+Screenshots/RoadmapPage.png
 
 ### 📊 Progress Tracker
-![Progress](screenshots/5_progress.png)
 
-### 📄 PDF Export
-![PDF](screenshots/6_pdf.png)
+Screenshots/ProgressPage.png
+
+### 📊 Cotinue learning
+Screenshots/ContinuePage.png
+
+
 
 ---
 
