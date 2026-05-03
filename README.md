@@ -11,13 +11,6 @@ and available hours — and get a structured week-by-week AI-powered study plan.
 
 > Generate a roadmap in seconds 👇
 
-![Dashboard](screenshots/HonePage.png)
-![Roadmap](screenshots/RoadmapPage.png)
-
----
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 ### 🔐 Login
